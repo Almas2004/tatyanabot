@@ -7,7 +7,7 @@ import time
 
 API_TOKEN = '7680225007:AAFx0-YC99FAgpVAYgWpeu_1fOyq9RoxJEY'
 # ADMIN_ID = '1321982385'  # Замените на ID администратора
-ADMIN_ID = '1321982385'  # Замените на ID администратора
+ADMIN_ID = '1815011192'  # Замените на ID администратора
 CHANNEL_ID = '-1002341510296'  # Ссылка на ваш канал
 # CHANNEL_ID = 'https://t.'  # Ссылка на ваш канал
 SUPPORT_LINK = 'https://t.me/+-F6RH6Pun_sxYTQy'  # Правильная ссылка для кнопки
